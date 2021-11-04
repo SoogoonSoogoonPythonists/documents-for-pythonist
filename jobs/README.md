@@ -11,6 +11,8 @@
     - [서버 개발자](https://www.wanted.co.kr/wd/1761?utm_source=notion&utm_medium=content&utm_campaign=devhire)
 - 웰로
     - [백엔드 API 개발자](https://www.notion.so/welfarehello/Wello-7204b304aad64bc0bdee4d9fd5168623)
+- 세컨핸즈
+    - [백엔드 개발자](https://www.wanted.co.kr/wd/74869)
 <br>
 
 ### 데이터 엔지니어링
